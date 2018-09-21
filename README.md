@@ -23,7 +23,8 @@ ___________
 
 # Evidence Log
 
-##Log entry 1
+## Log entry 1
+
   - [x] I write code that is easy to change
   - [x] I grow collaboratively
 
