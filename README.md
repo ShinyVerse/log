@@ -27,8 +27,3 @@ ___________
 
   - [x] I write code that is easy to change
   - [x] I grow collaboratively
-
-  [Oystercard Challenge](https://github.com/ShinyVerse/oystercard)
-
-  Working alongside Marianne Radchid, we built this project with 4 classes, starting with one, Oystercard. From Oystercard we extracted out new classes, using the TDD approach.
-  Coach Sam gave us a code review and confirmed it looked good, only a few minor changes of some attr_reader items to be moved into a private attr_reader.
